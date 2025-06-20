@@ -1,0 +1,6 @@
+#ifndef ACTIVATION_FUNCTIONS_H
+#define ACTIVATION_FUNCTIONS_H
+
+float relu(float x);
+
+#endif // ACTIVATION_FUNCTIONS_H
